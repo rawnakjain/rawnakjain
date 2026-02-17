@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raunak Pugalia</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
-- 🔭 I’m currently working on [cloudbot-agentic-rag](https://github.com/rawnakjain/cloudbot-agentic-rag)
+- 🔭 I’m currently working on [contricrew-content-pipeline-agent]([https://github.com/rawnakjain/cloudbot-agentic-rag](https://github.com/rawnakjain/contricrew-content-pipeline-agent))
 
 - 🌱 I’m currently learning **Multi Agent, MCP, A2A Protocols**
 
